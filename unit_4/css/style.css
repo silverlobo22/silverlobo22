@@ -1,0 +1,37 @@
+@import 'https://fonts.googleapis.com/css?family=Frijole';
+@import 'https://fonts.googleapis.com/css?family=Chewy';
+body {
+	text-align: center;
+	background-size: cover;
+
+
+
+}
+
+
+h2 {
+	font
+	font-weight: bold;
+	color: rgb(41,189,0);
+	font-family: 'Frijole', cursive;
+	
+
+
+}
+
+p {
+
+	color: rgb(245,107,7);
+	font-family: 'Chewy', cursive;
+	line-height: 1.5em;
+	margin: 2em;
+	font-size: 20px;
+
+
+}
+
+}
+a {
+	font-style: italic;
+	text-decoration: none;
+}
